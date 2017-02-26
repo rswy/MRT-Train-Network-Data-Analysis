@@ -8,3 +8,4 @@
 ## Note when running ipython notebook: 
 1) Please ensure that the dataset is in the same directory as the ipython notebook
 2) Change the naming of the data set in the 3rd line of code according to the name that's in your computer.
+3) Click shift+enter from the top to run every line of code 
